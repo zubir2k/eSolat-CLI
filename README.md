@@ -1,5 +1,6 @@
 # 🕋 eSolat Shell Script
-A simple shell script that retrieve current Malaysia prayer time based on area codes.
+A simple shell script that retrieve current Malaysia prayer time based on area codes by JAKIM. \
+May this be beneficial to those who find it useful. Insha'Allah
 
 ## Prerequisite
 1. Host connected to the Internet (obviously)
@@ -18,3 +19,6 @@ Example: `./esolat.sh SGR01`
 ## Use cases
 1. Autorun this script during login to your machine via SSH
 2. Geeky way to get your daily prayer time 😅
+
+## Special Thanks
+1. JAKIM for the [eSolat](https://www.e-solat.gov.my/) API
